@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ubumicia.github.io/sitemap
+Sitemap: https://ubumicia.github.io/app/sitemap
+Sitemap: https://ubumicia.github.io/assets/sitemap
+Sitemap: https://ubumicia.github.io/css/sitemap
+Sitemap: https://ubumicia.github.io/includes/sitemap
+Sitemap: https://ubumicia.github.io/item/sitemap
+Sitemap: https://ubumicia.github.io/src/sitemap
